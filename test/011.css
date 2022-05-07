@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+li{
+    text-align: left;
+}
+
+
+img{
+    width: 50%;
+}
+
+
+#tb{
+    width: 60%;
+    margin: auto;
+    font-size: 1.5em;
+}
+
+td{
+    border-bottom: 1px solid brown;
+}

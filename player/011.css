@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+h2{
+    /* 留歌曲名稱的顯示空間 */
+    height:32px;
+    color:brown;
+    font-size: medium;
+    font-weight: bold;
+}
